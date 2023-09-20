@@ -1,0 +1,2 @@
+# Leetclone
+A leetcode duplicate 
